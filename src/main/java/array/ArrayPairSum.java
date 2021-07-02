@@ -3,6 +3,9 @@ package array;
 import java.util.Arrays;
 
 public class ArrayPairSum {
+    public static void main(String[] args) {
+
+    }
     public int arrayPairSum(int[] nums) {
         Arrays.sort(nums);
         int res = 0;
