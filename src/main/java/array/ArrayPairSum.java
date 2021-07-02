@@ -8,6 +8,7 @@ public class ArrayPairSum {
     }
     public void arrayPairSum2(int[] nums) {
         System.out.println("b");
+        System.out.println("c");
     }
     public int arrayPairSum(int[] nums) {
         Arrays.sort(nums);
