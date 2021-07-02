@@ -6,6 +6,9 @@ public class ArrayPairSum {
     public static void main(String[] args) {
 
     }
+    public void arrayPairSum2(int[] nums) {
+
+    }
     public int arrayPairSum(int[] nums) {
         Arrays.sort(nums);
         int res = 0;
